@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369875901630",
+    "project_id": "ayllu-43fe7",
+    "storage_bucket": "ayllu-43fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369875901630:android:100755b2860932751b12ef",
+        "android_client_info": {
+          "package_name": "ay.llu.ayllu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369875901630-761f6v5b8grvv3i8lfhof165umu9ke5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm9HD1Me1N7x_NxEJRPedLsTTMeDaiAKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369875901630-761f6v5b8grvv3i8lfhof165umu9ke5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
