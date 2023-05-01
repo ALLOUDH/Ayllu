@@ -1,4 +1,4 @@
 package ay.llu.ayllu;
 
-public class PRUEBA {
+public class pruebaL {
 }
